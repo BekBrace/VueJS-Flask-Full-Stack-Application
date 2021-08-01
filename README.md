@@ -30,6 +30,11 @@ The good thing about microframeworks like Flask, is we don't have out of the box
 so you will have to build everyhting manually which is a great thing for learning and self-improvement as a developer in my opinion.
 
 Shoutout to Michael Hermann, for letting me use his code base to create this tutorial
+
 https://twitter.com/mikeherman
+
 https://github.com/mjhea0
+
 https://mherman.org
+
+https://testdriven.io/authors/herman/
