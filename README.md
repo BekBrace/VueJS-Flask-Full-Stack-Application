@@ -1,5 +1,5 @@
 # VueJS-Flask-Full-Stack-Application
-this is a game library full-stack web app using VueJs for Frontend design and Flask for backend server
+## This is a game library full-stack web app using VueJs for Frontend design and Flask for backend server
 
 Vue is a progressive open-source JavaScript framework for building UI,
 
