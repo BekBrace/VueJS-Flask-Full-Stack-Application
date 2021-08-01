@@ -91,7 +91,7 @@ def single_game(game_id):
     return jsonify(response_object)
 
 
-# Removing the game to update
+# Removing the game to update / delete
 def remove_game(game_id):
     for game in GAMES:
         if game['id'] == game_id:
