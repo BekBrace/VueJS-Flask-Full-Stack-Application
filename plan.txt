@@ -1,0 +1,15 @@
+Vue-Flask SPA Plan
+------------------
+1 Connect  UI front-end app to Flask back-end server.
+2 Develop a RESTful API with Flask.
+3 Use Vue router to create routes. 
+4 Bootstrap for styling and for 2 modals. 
+
+Application tools:
+-----------------
+Vue v2.6.11
+Vue CLI v4.5.11
+Node v15.7.0
+npm v7.4.3
+Flask v1.1.2
+Python v3.9.
