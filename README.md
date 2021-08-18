@@ -29,7 +29,7 @@ And I have a crash course on Flask, you can check it out if you like
 The good thing about microframeworks like Flask, is we don't have out of the box tools and features like in Django or Turbogears, 
 so you will have to build everyhting manually which is a great thing for learning and self-improvement as a developer in my opinion.
 
-Watch the whole video on my youTube Channel to learn how to create this CRUD router application.
+Watch the whole video on my YouTube Channel to learn how to create this CRUD router application.
 
 Thank you for participating.
 
